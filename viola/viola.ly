@@ -7,8 +7,8 @@ piecenumber = "01"
 piecenotes = \prologue
 \include "utils/piece.ly"
 
-\include "notes/01_prologue.ly"
-piecename = "Prologue"
+\include "notes/02_dream_a_little_harder.ly"
+piecename = "Dream a Little Harder"
 piecenumber = "02"
-piecenotes = \prologue
+piecenotes = \dreamALittleHarder
 \include "utils/piece.ly"
