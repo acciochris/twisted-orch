@@ -1,3 +1,5 @@
+\version "2.26.0"
+
 \paper {
   #(set-paper-size "letter")
 }
