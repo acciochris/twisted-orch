@@ -6,10 +6,10 @@ Orchestral scores for MTG's Summer 2026 production of Twisted :yum:
 
 [Viola book](https://acciochris.github.io/twisted-orch/viola.pdf)
 
-| Number | Name                               | Lilypond                                  | PDF                                                               |
-| ------ | ---------------------------------- | ----------------------------------------- | ----------------------------------------------------------------- |
-| 01     | Prologue                           | [link](viola/01_prologue.ly)              | [link](https://acciochris.github.io/twisted-orch/01_prologue.pdf) |
-| 02     | Dream a Little Harder              | [link](viola/02_dream_a_little_harder.ly) |
+| Number | Name                               | Lilypond                                        | PDF                                                                            |
+| ------ | ---------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------ |
+| 01     | Prologue                           | [link](viola/notes/01_prologue.ly)              | [link](https://acciochris.github.io/twisted-orch/01_prologue.pdf)              |
+| 02     | Dream a Little Harder              | [link](viola/notes/02_dream_a_little_harder.ly) | [link](https://acciochris.github.io/twisted-orch/02_dream_a_little_harder.pdf) |
 | 02A    | Dream a Little Harder Playoff      |
 | 02B    | Scene Change: Who is this Aladdin? |
 | 03     | I Steal Everything                 |
